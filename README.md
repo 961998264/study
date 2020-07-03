@@ -2,4 +2,4 @@
 
 ## 目录  
 
-[- 手撕Promise](https://github.com/961998264/study/promise)
+[- 手撕Promise](https://github.com/961998264/study/tree/master/promise)
