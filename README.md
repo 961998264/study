@@ -1,5 +1,5 @@
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com" style="font-size: 16px; color: black; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: left; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; margin-top: 0; padding: 0;"><h1 data-tool="mdnice编辑器" style="padding: 0px; margin-top: 24px; margin-bottom: 12px; font-weight: bold; font-size: 22px; color: #e7642b;"><span class="prefix" style="display: none;"></span><span class="content">想字节跳动冲啊～</span><span class="suffix"></span></h1>
-<h2 data-tool="mdnice编辑器" style="padding: 0px; color: black; font-weight: bold; font-size: 20px; margin-top: 24px; margin-bottom: 12px;"><span class="prefix" style="display: none;"></span><span class="content" style="color: #e7642b; text-align: center; display: block; background-color: #e7642b; color: white; padding: 3px 11px; border-radius: 1px;">目录</span><span class="suffix"></span></h2>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; list-style-type: disc; font-size: 15px; margin: 0; padding-left: 24px; color: #424B5D;">
-<li><section style="margin-top: 5px; margin-bottom: 5px; text-align: left; font-weight: 500; margin: 4px 0; line-height: 24px; color: #424B5D;">手撕Promise</section></li></ul>
-</section>
+# 向字节跳动冲啊～
+
+## 目录  
+
+[- 手撕Promise](https://github.com/961998264/study/promise)
